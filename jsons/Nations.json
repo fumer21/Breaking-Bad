@@ -31,9 +31,9 @@
 		"innerColor": [255,200,200],
 		"cities": ["Альбукерке"]
 	
-                "name": "Наркоимп",
-		"leaderName": "Уолтер Уайт",
-		"adjective": ["Наркоман"],
+                "name": "Нармп",
+		"leaderName": "Уолр Уайт",
+		"adjective": ["Наркоан"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
 		
@@ -60,6 +60,6 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"cities": ["Альбукерке"]
+		"cities": ["Альбукрке"]
 	}
 ]
