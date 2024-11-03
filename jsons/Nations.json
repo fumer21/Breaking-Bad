@@ -30,3 +30,39 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"cities": ["Альбукерке"]
+	                                       	]
+             }
+[
+	{
+		"name": "Наркоимп",
+		"leaderName": "Уолтер Уайт",
+		"adjective": ["Наркоман"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Walter White Meth Empire",
+		"startIntroPart2": "Good luck",
+		
+		"declaringWar": "Im building Empire Business",
+		"attacked": "What's wrong with you?! We're Family!",
+		"defeated": "We need to leave NOW",
+		"introduction": "Say my name.",
+		
+		"neutralHello": "Do you like chemistry?",
+		"neutralLetsHearIt": ["What?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["I liked it.","Hell yeah!"],
+
+		"hateHello": "What's up, bitch?",
+		"hateLetsHearIt": ["You wanna cook?"],
+		"hateNo": ["This is not the right flask."],
+		"hateYes": ["It's masterpiece"],
+		
+		"afterPeace": "I won."
+		"tradeRequest": "How about 2 kilograms per week?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"cities": ["Альбукерке"]
+	                                       	]
+}
