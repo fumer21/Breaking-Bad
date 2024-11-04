@@ -32,35 +32,35 @@
 		"cities": ["Альбукерке"]
 	},
 	{
-                "name": "Нармп",
-		"leaderName": "Уолр Уайт",
-		"adjective": ["Наркоан"],
+                "name": "Картель",
+		"leaderName": "Гектор Саламанка",
+		"adjective": ["єщкєрі"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Walter White Meth Empire",
+		"startIntroPart1": "Hector Salamanca Cartel",
 		"startIntroPart2": "Good luck",
 		
-		"declaringWar": "Im building Empire Business",
-		"attacked": "What's wrong with you?! We're Family!",
-		"defeated": "We need to leave NOW",
-		"introduction": "Say my name.",
+		"declaringWar": "Salamanca blood, Salamanca money, Salamanca did!",
+		"attacked": "You will regret this",
+		"defeated": "How dare you?!",
+		"introduction": "Don't get involved in our affairs.",
 		
-		"neutralHello": "Do you like chemistry?",
-		"neutralLetsHearIt": ["What?"],
+		"neutralHello": "Hola.",
+		"neutralLetsHearIt": ["I'm listen."],
 		"neutralNo": ["No."],
-		"neutralYes": ["I liked it.","Hell yeah!"],
+		"neutralYes": ["Ciertamente"],
 
-		"hateHello": "What's up, bitch?",
-		"hateLetsHearIt": ["You wanna cook?"],
-		"hateNo": ["This is not the right flask."],
-		"hateYes": ["It's masterpiece"],
+		"hateHello": "You came here in vain.",
+		"hateLetsHearIt": ["Well?"],
+		"hateNo": ["Get out of here and don't come back again."],
+		"hateYes": ["Well..."],
 		
-		"afterPeace": "I won."
-		"tradeRequest": "How about 2 kilograms per week?",
+		"afterPeace": "We will not forget this"
+		"tradeRequest": "Check out our offer",
 
-		"outerColor": [16,16,16],
+		"outerColor": [99,99,99],
 		"innerColor": [255,200,200],
-		"cities": ["Альбукрке"]
+		"cities": ["Чиуауа"]
 	}
 ]
