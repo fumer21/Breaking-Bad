@@ -28,7 +28,7 @@
 		"tradeRequest": "How about 2 kilograms per week?",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [0,0,255],
 		"cities": ["Альбукерке"]
 	},
 	{
@@ -60,7 +60,39 @@
 		"tradeRequest": "Check out our offer",
 
 		"outerColor": [99,99,99],
-		"innerColor": [255,200,200],
+		"innerColor": [255,0,0],
 		"cities": ["Чиуауа"]
+	},
+	{
+                "name": "Лос Поллос",
+		"leaderName": "Густаво Фринг",
+		"adjective": ["єщкрі"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Los Lollos Hermanos",
+		"startIntroPart2": "Good luck",
+		
+		"declaringWar": "This war is necessary",
+		"attacked": "Do you understand what you are doing?",
+		"defeated": "This defeat will make us stronger"
+		"introduction": "Welcome to the Los Pollos Hermanos, my name is Gustavo, but you can call me Gus.",
+	
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Can I help you with something?"],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Of course."],
+
+		"hateHello": "Hello.",
+		"hateLetsHearIt": ["I'm listen."],
+		"hateNo": ["I refuse "],
+		"hateYes": ["Of course."],
+		
+		"afterPeace": "This war was boring"
+		"tradeRequest": "Check out our offer",
+
+		"outerColor": [99,99,99],
+		"innerColor": [255,255,0],
+		"cities": ["Химический завод"]
 	}
 ]
